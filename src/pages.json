@@ -3,9 +3,25 @@
     "pagekey": "design",
     "headline": "Artist | Designer | Developer",
     "quote": "I seek to use my creativity as a tool for education, community building and positive impact.",
+    "footer-name": "Design",
+    "footer-subjects": [
+      "Typography",
+      "Composition/Layout",
+      "UX/UI",
+      "Color Theory",
+      "Print"
+    ],
+    "footer-other": "Tools",
+    "footer-tools": [
+      "Photoshop",
+      "Illustrator",
+      "InDesign",
+      "InVision",
+      "Hand-Sketching"
+    ],
     "projects": [
       {
-        "project-id": "shaker",
+        "projectId": "shaker",
         "type": "design",
         "headline": "Identity Rebranding",
         "project-name": "Shaker Urban Garden",
@@ -16,7 +32,7 @@
         "manager": "Instructor",
         "manager-name": "Greg Mortensen",
         "disciplines": "Branding, Visual Systems, Typography, Print, Digital, Editorial",
-        "thumbnail": "",
+        "thumbnail": "shaker-small.jpg",
         "top-image": "",
         "video": "",
         "issuu": "",
@@ -24,7 +40,7 @@
         "images": []
       },
       {
-        "project-id": "emerson",
+        "projectId": "emerson",
         "type": "design",
         "headline": "Event Schedule",
         "project-name": "Ignite Conference Program",
@@ -35,12 +51,12 @@
         "manager": "Design Manager",
         "manager-name": "Kristine McLavey",
         "disciplines": "Typography, Print, Digital",
-        "thumbnail": "",
+        "thumbnail": "ignite-small.jpg",
         "top-image": "",
         "images": []
       },
       {
-        "project-id": "filmfest",
+        "projectId": "filmfest",
         "type": "design",
         "headline": "A Louis Malle Film Festival",
         "project-name": "Delicate Impermanence",
@@ -58,7 +74,7 @@
         "images": []
       },
       {
-        "project-id": "mix",
+        "projectId": "mix",
         "type": "design",
         "headline": "Infographic Series",
         "project-name": "MIX Movement Training Guides",
@@ -69,13 +85,13 @@
         "manager": "Manager",
         "manager-name": "Richard Kappel",
         "disciplines": "Information Design, Editorial",
-        "thumbnail": "",
+        "thumbnail": "mix.jpg",
         "top-image": "",
         "spreads": "",
         "images": []
       },
       {
-        "project-id": "pearson",
+        "projectId": "pearson",
         "type": "design",
         "headline": "Website Redesign",
         "project-name": "Pearson's Renaissance Shoppe",
@@ -86,13 +102,13 @@
         "manager": "Instructor",
         "manager-name": "Joseph O'Donnel",
         "disciplines": "Digital, UX",
-        "thumbnail": "",
+        "thumbnail": "pearson.jpg",
         "top-image": "",
         "spreads": "",
         "images": []
       },
       {
-        "project-id": "shred",
+        "projectId": "shred",
         "type": "design",
         "headline": "Experimental Magazine",
         "project-name": "Shred",
@@ -103,14 +119,14 @@
         "manager": "Instructor",
         "manager-name": "Irina Blok",
         "disciplines": "Typography, Print, Editorial, Digital",
-        "thumbnail": "",
+        "thumbnail": "shred-small.jpg",
         "top-image": "",
         "spreads": "",
         "issuu": "",
         "images": []
       },
       {
-        "project-id": "Cisco",
+        "projectId": "Cisco",
         "type": "design",
         "headline": "Annual Report",
         "project-name": "Cisco",
@@ -121,7 +137,7 @@
         "manager": "Instructor",
         "manager-name": "Tim Carpenter",
         "disciplines": "Typography, Print, Information Graphics, Editorial,",
-        "thumbnail": "",
+        "thumbnail": "cisco-small.jpg",
         "top-image": "",
         "spreads": "",
         "slideshow": "",
@@ -133,9 +149,28 @@
     "pagekey": "web",
     "headline": "I Can Code Too...",
     "quote": "Coding skills expand my ability to design and communicate through modern technologies.",
+    "footer-name": "Stack",
+    "footer-subjects": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JQuery",
+      "Node.js",
+      "SQL",
+      "React",
+      "Ajax"
+    ],
+    "footer-other": "Tools",
+    "footer-tools": [
+      "MySQL",
+      "Firebase",
+      "Bootstrap",
+      "Materialize",
+      "Nivo"
+    ],
     "projects": [
       {
-        "project-id": "giftastic",
+        "projectId": "giftastic",
         "type": "web",
         "headline-quote": "Dynamically created fun.",
         "project-name": "Giftastic",
@@ -143,13 +178,13 @@
         "tech": "HTML, CSS, JavaScript, Giphy API",
         "website": "",
         "github": "",
-        "thumbnail": "",
+        "thumbnail": "giftastic-small.jpg",
         "top-image": "",
         "video": "",
         "images": []
       },
       {
-        "project-id": "hangman",
+        "projectId": "hangman",
         "type": "web",
         "headline-quote": "Make words, not war.",
         "project-name": "Hippie Hangman",
@@ -157,13 +192,13 @@
         "tech": "HTML, CSS, JavaScript",
         "website": "",
         "github": "",
-        "thumbnail": "",
+        "thumbnail": "hangman-small.jpg",
         "top-image": "",
         "slideshow": "",
         "images": []
       },
       {
-        "project-id": "snow",
+        "projectId": "snow",
         "type": "web",
         "headline-quote": "Solving a snowboarder’s dilemma.",
         "project-name": "Stay in the Snow",
@@ -171,13 +206,13 @@
         "tech": "HTML, CSS, JavaScript, APIs, Firebase",
         "website": "",
         "github": "",
-        "thumbnail": "",
+        "thumbnail": "snow-small.jpg",
         "top-image": "",
         "slideshow": "",
         "images": []
       },
       {
-        "project-id": "burger",
+        "projectId": "burger",
         "type": "web",
         "headline-quote": "These burgers are 100% imaginary and calorie free.",
         "project-name": "Burger Maker",
@@ -188,7 +223,33 @@
         "thumbnail": "",
         "top-image": "",
         "images": []
+      },
+      {
+        "projectId": "trivia",
+        "type": "web",
+        "headline-quote": "These burgers are 100% imaginary and calorie free.",
+        "project-name": "Mythology Trivia",
+        "project-summary": "Using an API to pull questions.",
+        "tech": "HTML, CSS, JavaScript, Ajax, API",
+        "website": "",
+        "github": "",
+        "thumbnail": "trivia-small.jpg",
+        "top-image": "",
+        "images": []
       }
+    ]
+  },
+  {
+    "pagekey": "about",
+    "headline": "You should know that...",
+    "quote": "I buy too many books and hang out with cats.",
+    "footer-name": "I also like",
+    "footer-subjects": [
+      "Reading in hammocks & sleeping in tents",
+      "Traveling with friends",
+      "Writing novels that don't get finished",
+      "Baking for tea parties",
+      "Walking/Hiking/Snowshowing"
     ]
   }
 ]

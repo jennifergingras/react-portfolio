@@ -1,4 +1,5 @@
 import React from "react";
+import "../fontello/css/fontello.css";
 
 const Quote = (props) => {
   return (
