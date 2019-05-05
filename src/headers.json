@@ -1,0 +1,65 @@
+[
+  {
+    "nav-title": "Design",
+    "headline-title": "Artist | Designer | Developer",
+    "headline-quote": "I seek to use my creativity as a tool for <em>education, community building</em> and <em>positive impact.</em>",
+    "social-links": [
+      " "
+    ],
+    "footer-subject-name": "Design",
+    "footer-subjects": [
+      "Typography",
+      "Composition/Layout",
+      "Branding & Identity",
+      "Color Theory"
+    ],
+    "footer-tools": [
+      "Photoshop",
+      "Illustrator",
+      "InDesign",
+      "Invision",
+      "Drawing"
+    ]
+  },
+  {
+    "nav-title": "Web",
+    "headline-title": "Becoming a Hybrid",
+    "headline-quote": "My coding skills expand the ways in which I can design and communicate using modern technologies.",
+    "social-links": [
+      " "
+    ],
+    "footer-subject-name": "Stack",
+    "footer-subjects": [
+      "HTML",
+      "CSS/CSS Grid",
+      "JavaScript",
+      "JQuery",
+      "Node.js",
+      "SQL"
+    ],
+    "footer-tools": [
+      "React",
+      "Express",
+      "MySQL",
+      "Firebase",
+      "Bootstrap"
+    ]
+  },
+  {
+    "nav-title": "About",
+    "headline-title": "You should know that...",
+    "headline-quote": "I buy too many books and hang out with cats.",
+    "social-links": [
+      " "
+    ],
+    "footer-subject-name": "Hobbies",
+    "footer-subjects": [
+      "Reading in hammocks",
+      "",
+      "JavaScript",
+      "JQuery",
+      "Node.js",
+      "SQL"
+    ]
+  }
+]
